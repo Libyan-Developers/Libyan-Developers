@@ -5,6 +5,6 @@
 ### Development Stack Used: MEAN Stack (MongoDB, Espress, Angular & NodeJS)
 
 
-
+![My Fav. Anime: One Piece, Screenshot featuring King of Pirates - Monkey D. Luffy](./images/anime/One-Piece_738_snapshot_04.03.55.jpg)
 
 #
